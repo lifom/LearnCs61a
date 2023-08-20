@@ -9,4 +9,13 @@ link:https://inst.eecs.berkeley.edu/~cs61a/su20/
 ### Learn week1
 #### 2023.8.20 update Lab0 HW1
 1. Floating point division (/) 浮点除法 和 Floor division (//) 向下整除法
-   
+2.
+<div align=center><img src="https://s1.ax1x.com/2023/08/20/pP87MjJ.md.png" width="50%" height="50%"></div>
+
+<div align=center><img src="https://s1.ax1x.com/2023/08/20/pP873H1.md.png" width="50%" height="50%"></div>
+
+<div align=center><img src="https://s1.ax1x.com/2023/08/20/pP871BR.md.png" width="50%" height="50%"></div>
+
+
+
+
