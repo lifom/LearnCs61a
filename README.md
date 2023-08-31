@@ -105,7 +105,7 @@ None None
 
 ##### Boole ! George Boole
 
-False 值并不单单指的是 False 还可以是 0 ,None ...
+False 值并不单单指的是 False 还可以是 0，‘’，None，()，[]，{},None  ...
 
 Ture 的值并不是仅仅指 Ture 还可以是 除了False 的任何值  
 
